@@ -1,6 +1,6 @@
 ### Hey I'm Zenepity!
-- ✨ I have a [Discord server called Vortex](https://discord.gg/rdXhgdgaE9)
-- 📣 I use to make edits on Instagram
+- 🍯 I'm currently working on a Discord bot called [Honey](https://github.com/zenepity/Honey)!
+- 😴 If i'm not working on a project i'm probably asleep.
 
 ### What I Use:
 
@@ -11,4 +11,6 @@
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" />
 
+<div>
 **© [zenepity](https://github.com/zenepity)**
+</div>
