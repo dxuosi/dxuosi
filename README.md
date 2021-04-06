@@ -11,5 +11,7 @@
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" />
 <img align="left" alt="repl.it" width="26px" src="https://replit.com/public/images/favicon.ico" />
+<img align="left" alt="glitch" width="26px" src="https://glitch.com/favicon.ico" />
+<img align="left" alt="figma" width="26px" src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" />
 
 © [zenepity](https://github.com/zenepity)
