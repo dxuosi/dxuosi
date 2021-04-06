@@ -11,6 +11,5 @@
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" />
 
-<div>
-**© [zenepity](https://github.com/zenepity)**
-</div>
+
+© [zenepity](https://github.com/zenepity)
