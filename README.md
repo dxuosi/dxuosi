@@ -10,6 +10,6 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" />
-
+<img align="left" alt="repl.it" width="26px" src="https://replit.com/public/images/favicon.ico" />
 
 © [zenepity](https://github.com/zenepity)
