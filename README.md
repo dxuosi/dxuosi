@@ -1,17 +1,16 @@
+
 ### Hey I'm Zenepity!
 - 🍯 I'm currently working on a Discord bot called [Honey](https://github.com/zenepity/Honey)!
 - 😴 If i'm not working on a project i'm probably asleep.
 
 ### What I Use:
+<p align="center"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>   
+   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>   
+   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>   
+   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>   
+   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="dbd.js" width="26px" src="https://dbd.js.org/favicon/apple-touch-icon.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
-<img align="left" alt="photoshop" width="26px" src="https://insmac.org/uploads/posts/2020-10/1603470791_adobe-photoshop-2021.png" />
-<img align="left" alt="repl.it" width="26px" src="https://replit.com/public/images/favicon.ico" />
-<img align="left" alt="glitch" width="26px" src="https://glitch.com/favicon.ico" />
-<img align="left" alt="figma" width="26px" src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" />
 
 © [zenepity](https://github.com/zenepity)
