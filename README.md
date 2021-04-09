@@ -10,7 +10,6 @@ Skills: JS, HTML, CSS
 
 <div align="center">
 <img src="https://metrics.lecoq.io/zenepity" alt="GitHub metrics">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zenepity" alt="Github Streak Stats"
 </div>
 
 © [zenepity](https://github.com/zenepity) 2021
