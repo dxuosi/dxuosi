@@ -1,14 +1,7 @@
-### Hi there 👋, I'm Zenepity!
-#### I enjoy coding Discord Bots
+<h1 align="center">
+<img src="https://imgur.com/Ry3ZKyX.png" width="1500">
+</h1>
 
-Skills: JS, HTML, CSS
-
-- 🔭 I’m currently working on [Apollo](https://github.com/zenepity/Apollo) 
-- 📫 How to reach me: Through Discord: @zenepity#1234 
-- 😄 Pronouns: He/they 
-
-<div align="center">
-<img src="https://metrics.lecoq.io/zenepity" alt="GitHub metrics">
-</div>
-
-© [zenepity](https://github.com/zenepity) 2021
+Here are some things i'm currently working on:
+- zenepity/Kikr
+- [Empty-Head-Society/Akagari]()
