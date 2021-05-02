@@ -3,5 +3,5 @@
 </h1>
 
 Here are some things i'm currently working on:
-- zenepity/Kikr
-- [Empty-Head-Society/Akagari]()
+- [zenepity/Kikr](https://github.com/zenepity/Kikr)
+- [Empty-Head-Society/Akagari](https://github.com/Empty-Head-Society/Akagari)
