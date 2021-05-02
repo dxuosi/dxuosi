@@ -2,28 +2,26 @@
 <h1 align="center">
 <img src="https://imgur.com/Ry3ZKyX.png" width="1500">
 </h1>
-
-<a href="https://blacklivesmatter.com/">
+<p><a href="https://blacklivesmatter.com/">
 <img src="https://liberalarts.oregonstate.edu/sites/liberalarts.oregonstate.edu/files/blm-banner.png">
-</a>
-
-### Current Projects
-- [zenepity/Kikr](https://github.com/zenepity/Kikr)
-- [Empty-Head-Society/Akagari](https://github.com/Empty-Head-Society/Akagari)
-
-### Ways to contact me
-- [Discord]() - @zenepity@1337
-- [Twitter](https://twitter.com/@zenepity) - @zenepity
- 
-### My Discord Status
-
-<img src="https://discord.c99.nl/widget/theme-4/802231495875231755.png">
-
-### My Favorite Repositories 
-
+</a></p>
+<h3 id="current-projects" align="center">Current Projects</h3>
+<ul >
+<li align="center"><a href="https://github.com/zenepity/Kikr">zenepity/Kikr</a></li>
+<li align="center"><a href="https://github.com/Empty-Head-Society/Akagari">Empty-Head-Society/Akagari</a></li>
+</ul>
+<h3 id="ways-to-contact-me" align="center">Ways to contact me</h3>
+<ul>
+<li align="center"><a href="">Discord</a> - @zenepity@1337</li>
+<li align="center"><a href="https://twitter.com/@zenepity">Twitter</a> - @zenepity</li>
+</ul>
+<h3 align="center">My Discord Status</h3>
+<p align="center"><img src="https://discord.c99.nl/widget/theme-4/802231495875231755.png"></p>
+<h3 id="my-favorite-repositories" align="center">My Favorite Repositories</h3>
+<p align="center">
 <a href="https://github.com/zenepity/Kikr">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zenepity&repo=kikr&theme=radical"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zenepity&repo=kikr&theme=radical" width="386"> 
 </a> 
 <a href="https://github.com/Koolwiza/Bot-12">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Koolwiza&repo=Bot-12&theme=radical"> 
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Koolwiza&repo=Bot-12&theme=radical" width="450"> 
+</a></p>
