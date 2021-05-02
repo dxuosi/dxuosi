@@ -10,3 +10,6 @@ Here are some ways to contact me:
 - [Discord]() - @zenepity@1337
 - [Twitter](https://twitter.com/@zenepity) - @zenepity
  
+My Discord Status:
+
+<img src="https://discord.c99.nl/widget/theme-4/802231495875231755.png">
