@@ -2,9 +2,9 @@
 <h1 align="center">
 <img src="https://imgur.com/Ry3ZKyX.png" width="1500">
 </h1>
-<p><a href="https://blacklivesmatter.com/">
+<h2><a href="https://blacklivesmatter.com/">
 <img src="https://liberalarts.oregonstate.edu/sites/liberalarts.oregonstate.edu/files/blm-banner.png">
-</a></p>
+</a></h2>
 <h3 id="current-projects" align="center">Current Projects</h3>
 <li align="center"><a href="https://github.com/zenepity/Kikr">zenepity/Kikr</a></li>
 <li align="center"><a href="https://github.com/Empty-Head-Society/Akagari">Empty-Head-Society/Akagari</a></li>
