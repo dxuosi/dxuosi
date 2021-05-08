@@ -16,8 +16,8 @@
 <h3 id="my-favorite-repositories" align="center">My Favorite Repositories</h3>
 <p align="center">
 <a href="https://github.com/zenepity/Kikr">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zenepity&repo=kikr&theme=radical" width="386"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zenepity&repo=kikr&theme=dark" width="386"> 
 </a> 
 <a href="https://github.com/Koolwiza/Bot-12">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Koolwiza&repo=Bot-12&theme=radical" width="450"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Koolwiza&repo=Bot-12&theme=dark" width="450"> 
 </a></p>
