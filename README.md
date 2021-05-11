@@ -1,4 +1,5 @@
 
+
 <h1 align="center">
 <img src="https://imgur.com/Ry3ZKyX.png" width="1500">
 </h1>
@@ -19,5 +20,5 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenepity&repo=kikr&theme=dark" width="386"> 
 </a> 
 <a href="https://github.com/Koolwiza/Bot-12">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Koolwiza&repo=Bot-12&theme=dark" width="450"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Koolwiza&repo=Bot-12&theme=dark" width="485"> 
 </a></p>
