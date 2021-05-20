@@ -1,16 +1,19 @@
 
 
+
 <h1 align="center">
 <img src="https://imgur.com/Ry3ZKyX.png" width="1500">
 </h1>
+<h2 align="center">
 <a href="https://blacklivesmatter.com/">
 <img src="https://liberalarts.oregonstate.edu/sites/liberalarts.oregonstate.edu/files/blm-banner.png">
 </a>
-
----
+</h2>
 
 ### Hey, I'm Zenepity!
 Hey, I'm Zenepity and I enjoy coding discord bots and developing websites. I'm currently learning Python, and Typescript and planning on learning C later down the line. As of now, I'm working on these projects:
+
+### Projects
 
 ---
 
@@ -19,8 +22,7 @@ Hey, I'm Zenepity and I enjoy coding discord bots and developing websites. I'm c
 ##  Legacy.js
 Tutorials on popular npmjs packages such as: express, discord.js, or eris
 
-
-
+---
 
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="Kikr" src="https://imgur.com/LyjfBHy.png?maxwidth=760&fidelity=grand">  
 
