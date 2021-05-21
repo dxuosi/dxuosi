@@ -28,3 +28,16 @@ Tutorials on popular npmjs packages such as: express, discord.js, or eris
 
 ##  Kikr
 Bot made in discord.js to encourage your members to be active in your Discord server!
+
+### Connect with me!
+<p align="center">
+<a href="https://twitter.com/@zenepity">
+<img src="https://pngimg.com/uploads/twitter/twitter_PNG1.png" width="30" align="center">
+</a>
+<a href="https://dsc.bio/zenepity">
+<img src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Discord-512.png" width="35" align="center">
+</a>
+<a href="https://github.com/zenepity1">
+<img src="https://icons-for-free.com/iconfiles/png/512/part+1+github-1320568339880199515.png" width="30" align="center">
+</a>
+</p>
