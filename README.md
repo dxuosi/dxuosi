@@ -29,6 +29,14 @@ Tutorials on popular npmjs packages such as: express, discord.js, or eris
 ##  Kikr
 Bot made in discord.js to encourage your members to be active in your Discord server!
 
+---
+
+<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="Eru" src="https://imgur.com/FFkukVv.png">  
+
+##  Eru
+🦊🤖🌲✨ Absolutely adorable Discord bot made to help you enhance your server with ease.
+
+
 ### Connect with me!
 <p align="center">
 <a href="https://twitter.com/@zenepity">
