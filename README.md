@@ -49,3 +49,34 @@ Bot made in discord.js to encourage your members to be active in your Discord se
 <img src="https://icons-for-free.com/iconfiles/png/512/part+1+github-1320568339880199515.png" width="30" align="center">
 </a>
 </p>
+
+### Skills
+<table>
+  <tr>
+    <td align="center" width="128">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48"/>
+      <br>Javascript
+    </td>
+        <td align="center" width="128">
+        <img src="https://discord.js.org/static/logo-square.png" width="48" height="48"/>
+      <br>Discord.js
+    </td>
+            <td align="center" width="128">
+        <img src="https://dbd.js.org/images/DBDJSLOGOBLUEblackbackground.gif" width="48" height="48"/>
+      <br>DBD.js
+    </td>
+                <td align="center" width="128">
+        <img src="https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png" width="70" height="48"/>
+      <br>Markdown
+    </td>
+        </td>
+                <td align="center" width="128">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="48" height="48"/>
+      <br>HTML5
+    </td>
+                    <td align="center" width="128">
+        <img src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png" width="48" height="48"/>
+      <br>CSS3
+    </td>
+    </tr>
+    </table>
