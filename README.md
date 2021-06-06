@@ -1,83 +1,23 @@
+<!-- Presets
 
-
-
-<h1 align="center">
-<img src="https://imgur.com/Ry3ZKyX.png" width="1500">
-</h1>
-<h2 align="center">
-<a href="https://blacklivesmatter.com/">
-<img src="https://liberalarts.oregonstate.edu/sites/liberalarts.oregonstate.edu/files/blm-banner.png">
+<a href="https://google.com">
+<kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png" width="20" align="center"></kbd>
 </a>
-</h2>
 
-### Hey, I'm Zenepity!
-Hey, I'm Zenepity and I enjoy coding discord bots and developing websites. I'm currently learning Python, and Typescript and planning on learning C later down the line. Her!e's some more about me!
+ -->
+## About me
+Hey, I'm Zenepity. I enjoy using <img alt="Javascript" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" width="20" align="center">, <img alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg
+" width="20" align="center">, <img alt="JSON" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png
+" width="20" align="center">, and <img alt="HTML5" src="https://www.pngrepo.com/png/183637/512/html5.png
+" width="20" align="center">. My favorite NPM packages are <img alt="Express" src="https://images.tute.io/tute/topic/express-js.png" width="20" align="center">, <img alt="discord.js" src="https://discord.js.org/static/logo-square.png" width="20" align="center">, <img alt="dbd.js" src="https://styles.redditmedia.com/t5_3rdcz2/styles/communityIcon_mwfeed0wxpc61.png?width=256&s=c600f32fefc6cba4f34f2a9ee176401ae5313fb6" width="20" align="center">, and <img alt="node-fetch" src="https://avatars.githubusercontent.com/u/59502381?s=200&v=4" width="20" align="center">.
 
-<h3>My Skills</h3>
-
-<table>
-  <tr>
-    <td align="center" width="128">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48"/>
-      <br>Javascript
-    </td>
-        <td align="center" width="128">
-        <img src="https://discord.js.org/static/logo-square.png" width="48" height="48"/>
-      <br>Discord.js
-    </td>
-            <td align="center" width="128">
-        <img src="https://dbd.js.org/images/DBDJSLOGOBLUEblackbackground.gif" width="48" height="48"/>
-      <br>DBD.js
-    </td>
-                <td align="center" width="128">
-        <img src="https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png" width="70" height="48"/>
-      <br>Markdown
-    </td>
-        </td>
-                <td align="center" width="128">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="48" height="48"/>
-      <br>HTML5
-    </td>
-                    <td align="center" width="128">
-        <img src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png" width="48" height="48"/>
-      <br>CSS3
-    </td>
-    </tr>
-    </table>
-    
-### My Projects
-
----
-
-<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="Legacy.js" src="https://avatars.githubusercontent.com/u/84481022?s=200&v=4">  
-
-##  Legacy.js
-Tutorials on popular npmjs packages such as: express, discord.js, or eris
-
----
-
-<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="Kikr" src="https://imgur.com/LyjfBHy.png?maxwidth=760&fidelity=grand">  
-
-##  Kikr
-Bot made in discord.js to encourage your members to be active in your Discord server!
-
----
-
-<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="Eru" src="https://imgur.com/FFkukVv.png">  
-
-##  Eru
-🦊🤖🌲✨ Absolutely 𝘢𝘥𝘰𝘳𝘢𝘣𝘭𝘦 Discord bot made to help you enhance your server with ease.
-
-
-<h3 align="left">My Social Media's</h3>
-<p align="center">
-<a href="https://twitter.com/@zenepity">
-<img src="https://pngimg.com/uploads/twitter/twitter_PNG1.png" width="30" align="center">
+## Projects
+<a href="https://github.com/zenepity/HelloWorld">
+<img src="https://camo.githubusercontent.com/187345915e626f7276c40164ccea1293e22b325b5c129de8aa7907e171b0f485/68747470733a2f2f692e696d6775722e636f6d2f6a3376775533462e706e67">
 </a>
-<a href="https://dsc.bio/zenepity">
-<img src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Discord-512.png" width="35" align="center">
+
+Printing "Hello, world!" in every coding language.
+
+<a href="https://github.com/zenepity/HelloWorld">
+<kbd>View on Github</kbd></a><a href="https://github.com/zenepity/HelloWorld/archive/refs/heads/main.zip"><kbd>Download</kbd></a>
 </a>
-<a href="https://github.com/zenepity1">
-<img src="https://icons-for-free.com/iconfiles/png/512/part+1+github-1320568339880199515.png" width="30" align="center">
-</a>
-</p>
