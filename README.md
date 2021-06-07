@@ -29,3 +29,13 @@ Printing "Hello, world!" in every coding language.
 <a href="https://github.com/zenepity/HelloWorld">
 <kbd>View on Github</kbd></a><a href="https://github.com/zenepity/HelloWorld/archive/refs/heads/main.zip"><kbd>Download</kbd></a>
 </a>
+
+<a href="https://github.com/zenepity/piglet">
+<img src="https://camo.githubusercontent.com/7e6681b5007039e98da2f7e4098b99a67190f938ddbf8fdc638d26f7a23761cc/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7a656e65706974792f696d6167652f75706c6f61642f76313632333030313035382f2535427069676c65742535442f31313932316135366339333962626331353366633633616333396663353637355f6275306c376c2e706e67">
+</a>
+
+🐷 Discord bot that likes to play!
+
+<a href="https://github.com/zenepity/piglet">
+<kbd>View on Github</kbd></a><a href="https://github.com/zenepity/piglet/archive/refs/heads/main.zip"><kbd>Download</kbd></a>
+</a>
