@@ -1,4 +1,5 @@
-## ⚡ Tech Stack
+<h2 align="center">⚡ Tech Stack</h2>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-cf649a?logo=sass&logoColor=white)
@@ -16,5 +17,11 @@
 ![Github](https://img.shields.io/badge/-Github-161b22?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-e84d31?style=flat&logo=git&logoColor=white)
 
-## 📊 Statistics
-![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=mlscgz8sxg7rl6pgvcdp06tyw&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mlscgz8sxg7rl6pgvcdp06tyw&cover_image=false&theme=default)![](https://github-readme-stats.vercel.app/api?username=zenepity&count_private=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenepity&theme=dark)
+
+<h2 align="center">📊 Statistics</h2>
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mlscgz8sxg7rl6pgvcdp06tyw&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mlscgz8sxg7rl6pgvcdp06tyw&cover_image=false&theme=default">
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zenepity&count_private=true&theme=dark" width="400">
+</div>
