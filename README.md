@@ -23,5 +23,5 @@
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mlscgz8sxg7rl6pgvcdp06tyw&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mlscgz8sxg7rl6pgvcdp06tyw&cover_image=false&theme=default">
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zenepity&count_private=true&theme=dark" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=zenepity&count_private=true&theme=dark&redirect=true" width="400">
 </div>
