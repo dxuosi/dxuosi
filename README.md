@@ -26,5 +26,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=zenepity&count_private=true&theme=dark&redirect=true" width="400">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=dark" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&theme=dark" width="400">
  </div>
