@@ -7,4 +7,7 @@
   <p align=center>
   im also on <a href="https://behance.net/dxuosi">behance<a/>!
   </p>
+    <p align="center">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=mlscgz8sxg7rl6pgvcdp06tyw&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false"/>
+</p>
 </p>
